@@ -39,7 +39,7 @@ O trabalho tem como foco o aprendizado de:
 1. Faça o download ou clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/joaofilipecassu-creator/seu-repositorio.git
 ```
 
 2. Abra o arquivo `index.html` no navegador.
